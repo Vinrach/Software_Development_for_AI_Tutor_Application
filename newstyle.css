@@ -1,0 +1,269 @@
+header{
+    color: white;
+    background-color: blue;
+    padding: 5px;
+}
+.head{
+    text-align: center;
+    font-size: 30px;
+}
+.menu-icon{
+    position: absolute;
+    top: 80px;
+}
+.search{
+    position: absolute;
+    right: 80px;
+    top: 120px;
+}
+.search-label{
+    position: absolute;
+    right: 260px;
+    top: 80px;
+}
+.course-section{
+    color:black;
+    text-align: center;
+    font-size: 20px;
+}
+.univ-image{
+    position: absolute;
+    top: 40px;
+    left: 50px;
+    width: 40px;
+    height: 40px;
+}
+#second-block{
+    font-size: 20px;
+}
+#calendar-block{
+    position: absolute;
+    top: 200px;
+    right:130px;
+}
+.navbar{
+    font-size: 20px;
+    text-decoration:solid;
+}
+.menu-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 10px;
+}
+li{
+    display: inline-block;
+    margin-right: 30px;
+    font-size: 20px;
+    font-weight: 800;
+}
+button{
+    background-color: whitesmoke;
+    margin-right: 10px;
+    border-radius: 10px;
+    width: 80px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: 800;
+}
+.course-section{
+    border: 20px solid rgb(136, 196, 202);
+}
+.course-one{
+    border: 1px solid #ccc;
+    width: 400px;
+    height: 250px;
+    margin: 40px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: aliceblue;
+}
+.course-one-h{
+    font-size: 23px;
+}
+.course-one-p{
+    font-size: 18px;
+}
+.course-two{
+    border: 1px solid #ccc;
+    width: 400px;
+    height: 250px;
+    margin: 40px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: aliceblue;
+    position: absolute;
+    top: 253px;
+    right: 100px;
+    left: 513px;
+}
+.course-two-h{
+    font-size: 23px;
+}
+.course-two-p{
+    font-size: 18px;
+}
+.course-three{
+    border: 1px solid #ccc;
+    width: 400px;
+    height: 250px;
+    margin: 40px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: aliceblue;
+    position: absolute;
+    top: 253px;
+    left: 1000px;
+}
+.course-three-h{
+    font-size: 23px;
+}
+.course-three-p{
+    font-size: 18px;
+}
+.course-four{
+    border: 1px solid #ccc;
+    width: 400px;
+    height: 250px;
+    margin: 40px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: aliceblue;
+}
+.course-four-h{
+    font-size: 23px;
+}
+.course-four-p{
+    font-size: 18px;
+}
+.course-five{
+    border: 1px solid #ccc;
+    width: 400px;
+    height: 250px;
+    margin: 40px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: aliceblue;
+    position: absolute;
+    top: 565px;
+    right: 100px;
+    left: 513px;
+}
+.course-five-h{
+    font-size: 23px;
+}
+.course-five-p{
+    font-size: 18px;
+}
+.course-six{
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    width: 400px;
+    height: 250px;
+    margin: 40px;
+    background-color: aliceblue;
+    position: absolute;
+    top: 565px;
+    left: 1000px;
+}
+.course-six-h{
+    font-size: 23px;
+}
+.course-six-p{
+    font-size: 18px;
+}
+.sem{
+    font-size: 17px;
+    font-style: bold;
+    color:darkcyan;
+}
+.library{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    margin: 60px;
+    top: 900px;
+}
+.library-img{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+}
+.library-img-p{
+    position: absolute;
+    top: 400px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    width: 380px;
+    background-color: aliceblue;
+}
+.career{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin: 60px;
+    top: 900px;
+    left:500px;
+}
+.career-img{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+}
+.career-img-p{
+    position: absolute;
+    top: 400px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    width: 380px;
+    background-color: aliceblue;
+}
+.scholarship{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin: 60px;
+    top: 900px;
+    left: 990px;
+}
+.scholarship-img{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+}
+.scholarship-img-p{
+    position: absolute;
+    top: 400px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    width: 380px;
+    background-color: aliceblue;
+}
+.footer{
+    border: 10px solid rgb(136, 196, 202);
+    position: absolute;
+    top:1500px;
+    width: 98%
+}
+.footer-about-h{
+    text-align: center;
+}
+.footer-details{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-left: 550px;
+}
+.chat-bot{
+    position: absolute;
+    right: 30px;
+    bottom: 50px;
+}

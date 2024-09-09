@@ -1,0 +1,73 @@
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="professor_logged.css">
+    <title>Student HomePage</title>
+</head>
+<body>
+    <div id="main-start">
+        <header>
+            <h1 class="head">Welcome to AiTutor University</h1>
+            <img src="AiTutor_Picture.jpeg" class="univ-image">
+        </header>
+        <!-- Header-->
+        <section>
+            <nav class="navbar">
+                <div class="menu-bar">
+                    <div class="logo"><a href="#">AiTutor</a></div>
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Course List</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Contact</a></li>
+                        <!--label for="menu-toggle" class="menu-icon">&#9776;</label>
+                        <input class="search" type="search" placeholder="Enter here to search"-->
+                        <button><a href="login.html">Logout</a></button>
+                    </ul>
+                </div>
+            </nav>
+        </section>
+        <!-- Header-- ends-->
+        <!--Professor Create Course-->
+        <section class="course-section">
+            <h2>Create New Course</h2>
+        </br>
+            <form id="create-course-form">
+                <label for="course-id">Course ID:</label>
+                <input type="text" id="course-id" name="course-id" required>
+            </br>
+                <label for="course-name">Course Name:</label>
+                <input type="text"ect id="course-name" name="course-name" required>
+            </br>
+                <label for="academic-year">Academic Year:</label>
+                <input type="text" id="academic-year" name="academic-year" value="2023-2024" readonly>
+            </br>
+            <label for="description">Description:</label>
+            <textarea id="description" name="description" required></textarea>
+            </br>
+                <button type="button"><a href="professor_course_created.html">Add New Course</a></button>
+            </form>
+        </section>    
+        <!--Professor Create Course--ends-->
+        <!--Footer-->
+        <section>
+            <div class="footer">
+                <div class="About Us">
+                    <h1 class="footer-about-h">About Us</h1>
+                </div>
+                <div class="footer-details">
+                    <ul>
+                        <p>Copyright 2023-2024 by Refsnes Data. All Rights Reserved.</p>
+                        <li><a href="#">Fb</a></li>
+                        <li><a href="#">Instagram</a></li>
+                        <li><a href="#">Youtube</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
+

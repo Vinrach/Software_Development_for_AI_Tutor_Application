@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="professor_register.css">
+    <title>Professor Registration</title>
+</head>
+<body>
+    <div class="registration-container">
+        <form id="professorRegistrationForm">
+            <h2>Professor Registration</h2>
+            <input type="text" id="id" name="id" placeholder="Professor ID" required>
+            <input type="text" id="firstname" name="firstname" placeholder="First Name" required>
+            <input type="text" id="lastname" name="lastname" placeholder="Last Name" required>
+            <input type="text" id="placeOfBirth" name="placeOfBirth" placeholder="Place of Birth" required>
+            <input type="text" id="nationality" name="nationality" placeholder="Nationality" required>
+            <input type="text" id="countryOfResidence" name="countryOfResidence" placeholder="Country of Residence" required>
+            <input type="text" id="department" name="department" placeholder="Department" required>
+            
+            <button type="button" onclick="submitProfessorForm()">Submit</button>
+        </form>
+
+        <a id="successLink" href="#" style="display: none;">Go to Success Page</a>
+    </div>
+    <script src="js/professor_register.js"></script>
+</body>
+</html>

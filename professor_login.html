@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="professor_login.css">
+    <title>Professor Login</title>
+</head>
+<body>
+    <div class="login-container">
+        <form action="professor_logged.html" method="post">
+            <h2>Professor Login</h2>
+            <input type="email" id="email" name="email" placeholder="E-mail" required>
+            <input type="password" id="password" name="password" placeholder="Password" required>
+
+            <label for="terms">
+                <input type="checkbox" id="terms" name="terms" required>
+                Terms and conditions
+            </label>
+
+            <a>Forgot Password?</a>
+
+            <button type="submit">Submit</button>
+
+            <p class="register-link">Don't have an account? <a href="professor_register.html" class="register-link">Register here</a></p>
+        </form>
+    </div>
+</body>
+</html>
