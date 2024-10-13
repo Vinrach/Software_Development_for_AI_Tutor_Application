@@ -20,6 +20,11 @@ The customer has specified that the platform must be developed in Java, using Ja
 # Registration
 ![Registration](https://github.com/user-attachments/assets/3a278a79-8c66-4f9c-9311-c42181da43f4)
 
+# welcome Page
+![welcom page](https://github.com/user-attachments/assets/c6d37f16-f6e4-4e83-96c7-ec03a87c53ec)
+
+
+
 
 
 
