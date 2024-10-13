@@ -10,3 +10,16 @@ The platform's primary focus is on ease of use and enjoyment. For professors, th
 The project involved developing an AI-based online tutoring platform for a German university to manage courses and facilitate content-related interactions using a generative AI chatbot. The customer has specified key functionalities and constraints that must be followed, and any alterations must be approved by them. 
 The platform will serve both professors and students, with professors creating and managing courses and students registering for individual courses and asking content-related questions to the chatbot. The web interface should be user-friendly, attractive, and fun. 
 The customer has specified that the platform must be developed in Java, using Jakarta EE, JPA, JDBC, and PostgreSQL as the database. For the front end, a serverless Single Page Application (SPA) needs to be implemented in JavaScript, and the front end should connect to the backend web services using JAX-RS. The platform should also support multi-tenancy for potential white-label licensing to other universities.
+
+# AI Tutor
+![AI Tutor](https://github.com/user-attachments/assets/07532d19-9648-4b53-965c-7d24fd77c417)
+
+# Login Page
+![Login](https://github.com/user-attachments/assets/efb5c312-36c7-416c-ae4a-9d68b8584e81)
+
+# Registration
+![Registration](https://github.com/user-attachments/assets/3a278a79-8c66-4f9c-9311-c42181da43f4)
+
+
+
+
