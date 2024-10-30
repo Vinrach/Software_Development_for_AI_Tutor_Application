@@ -13,6 +13,11 @@ The customer has specified that the platform must be developed in Java, using Ja
 
 # Figma Prototype
 https://www.figma.com/proto/XyniVHhoPCDhYTIOGSGEV2/AI-Tutor?page-id=3%3A34&node-id=3-35&node-type=canvas&viewport=229%2C745%2C0.09&t=LBGCD6ILjPlYtUCZ-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3%3A35
+1. Basic Figma prototype with role selection for Student or Professor.
+2. Redirects to specific role's homepage; only Student homepage is created.
+3. Student Homepage includes multiple courses, assignment deadlines, and an interactive AI chatbot.
+4. Navigation: Home button to return to homepage, Logout to exit Student view.
+5. Additional wireframes created for Password Reset and Registration.
 
 # AI Tutor
 ![AI Tutor](https://github.com/user-attachments/assets/07532d19-9648-4b53-965c-7d24fd77c417)
