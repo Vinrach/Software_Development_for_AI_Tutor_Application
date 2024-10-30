@@ -11,6 +11,9 @@ The project involved developing an AI-based online tutoring platform for a Germa
 The platform will serve both professors and students, with professors creating and managing courses and students registering for individual courses and asking content-related questions to the chatbot. The web interface should be user-friendly, attractive, and fun. 
 The customer has specified that the platform must be developed in Java, using Jakarta EE, JPA, JDBC, and PostgreSQL as the database. For the front end, a serverless Single Page Application (SPA) needs to be implemented in JavaScript, and the front end should connect to the backend web services using JAX-RS. The platform should also support multi-tenancy for potential white-label licensing to other universities.
 
+# Figma Prototype
+https://www.figma.com/proto/XyniVHhoPCDhYTIOGSGEV2/AI-Tutor?page-id=3%3A34&node-id=3-35&node-type=canvas&viewport=229%2C745%2C0.09&t=LBGCD6ILjPlYtUCZ-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3%3A35
+
 # AI Tutor
 ![AI Tutor](https://github.com/user-attachments/assets/07532d19-9648-4b53-965c-7d24fd77c417)
 
